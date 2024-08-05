@@ -1,4 +1,4 @@
-# Proyecto React con Vite y pnpm
+# Prueba técnica ELDAR, realizado con React, Vite y pnpm
 
 Este proyecto es una aplicación web desarrollada con React, Vite y gestionada con pnpm.
 
